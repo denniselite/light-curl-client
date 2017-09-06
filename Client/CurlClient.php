@@ -6,6 +6,8 @@
  * Time: 23:57
  */
 
+namespace Client;
+
 class CurlClient
 {
 
@@ -24,7 +26,7 @@ class CurlClient
     /** @var string */
     protected $method;
 
-    /** @var CLogger */
+    /** @var  */
     protected $logger;
 
     /**

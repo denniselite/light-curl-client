@@ -1,0 +1,17 @@
+{
+    "name": "denniselite/light-curl-client",
+    "description": "Light CURL client for everyone",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Denis Podlesnykh",
+            "email": "denniselite@live.com"
+        }
+    ],
+    "autoload": {
+      "classmap": [
+        "Client/"
+      ]
+    },
+    "require": {}
+}
